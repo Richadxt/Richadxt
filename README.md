@@ -1,7 +1,7 @@
 ### 
 <h1 align="center">Hi,I'm Richa Dixit👋</h1>
 <h4 align="center">I'm a currently enrolled as a Student persuing my Batchelor's degree in Computer Science.</h4>
-<img align="right" alt="coding" width="150" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
+<img align="right" alt="coding" width="140" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
 - 🔭 I’m currently working on a my pre final year project.
 - 🌱 I’m currently learning C++,DSA,Python and Javascript.
