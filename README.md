@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="140" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
 - 🔭 I’m currently working on a my pre final year project.
-- 🌱 I’m currently learning C++,Java,DSA,Python and Javascript.
+- 🌱 I’m currently learning C++,Java,DSA and Javascript.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me richadixit028@gmail.com.
 - ⚡ Fun fact: When life becomes odd, integrate it within limits -a to a.
