@@ -3,10 +3,9 @@
 <h4 align="center">I'm a currently enrolled as a Student persuing my Batchelor's degree in Computer Science.</h4>
 <img align="right" alt="coding" width="140" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
-- 🔭 I’m currently working on my final year project.
-- 🌱 I’m currently learning Java, Android Studio, C++ and Data Structures n Algorithms.
-- 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me richadixit028@gmail.com.
+- 🔭 I’m working on my final year project.
+- 🌱 I’m on track for learning more about Java, Android Studio, C++ and Data Structures n Algorithms.
+- 📫 you can shoot me an email at richadixit028@gmail.com, I'll try to respond as soon as I can.
 
 
 <h3 align="left">Languages and Tools:</h3>
