@@ -9,7 +9,7 @@
 
 - 📫 you can shoot me an email at richadixit028@gmail.com, I'll try to respond as soon as I can.
 
--🤔 while (alive) {
+- 🤔 while (alive) {
              eat();
              sleep();
              code();
