@@ -19,7 +19,7 @@
     
  🛠 TECH STACK
     
- <img align="left" alt="coding" length="440" width="300" src="https://assets-global.website-files.com/5ec7dad2e6f6295a9e2a23dd/620d446dcb44c73aac5131f5_software-stack.jpg">
+ <img align="left" alt="coding" length="140" width="150" src="https://qphs.fs.quoracdn.net/main-qimg-77bd67b99d7777843ad5f19d44f7f38b">
                                                                                    
   - 💻   Data Structures & Algorithms | C++ | Java
 
