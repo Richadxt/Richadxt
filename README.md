@@ -5,7 +5,7 @@
 
 - 🔭 I’m working on my final year project.
 
-- 🌱 I’m on track for learning more about Java, Android Studio, C++, Web Development and Data Structures_n_Algorithms. 
+- 🌱 I’m on track for learning more about Java, Android Studio, C++, Web Development and Data-Structures_n_Algorithms. 
 
 - 📫 you can shoot me an email at richadixit028@gmail.com, I'll try to respond as soon as I can.
 
@@ -19,7 +19,7 @@
     
  🛠 TECH STACK
     
- <img align="left" alt="coding" length="440" width="320" src="https://assets-global.website-files.com/5ec7dad2e6f6295a9e2a23dd/620d446dcb44c73aac5131f5_software-stack.jpg">
+ <img align="left" alt="coding" length="440" width="300" src="https://assets-global.website-files.com/5ec7dad2e6f6295a9e2a23dd/620d446dcb44c73aac5131f5_software-stack.jpg">
                                                                                    
   - 💻   Data Structures & Algorithms | C++ | Java
 
