@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="140" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
 - 🔭 I’m currently working on my final year project.
-- 🌱 I’m currently learning C++,Java and Data Structures n Algorithms.
+- 🌱 I’m currently learning Java, Android Studio, C++ and Data Structures n Algorithms.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me richadixit028@gmail.com.
 
