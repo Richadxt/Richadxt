@@ -25,9 +25,7 @@
 
 - 🐍   Machine Learning | Python | OpenCV
 
-- ☁    Operating System | Database | SQL
-
-- 🔧   Visual Studio code | Intellij IDEA | Android Studio | Git | Github
+- 🔧   Visual Studio code | Intellij IDEA | Android Studio
 
 
                                                                                     
