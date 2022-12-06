@@ -18,7 +18,7 @@
                                                                                    
 - 💻   Data Structures & Algorithms | Java
 
-- 🌐   HTML | CSS | JavaScript
+- 🌐   HTML | CSS | JavaScript | PHP | MySQL
 
 - 🐍   Machine Learning | Python | OpenCV
 
