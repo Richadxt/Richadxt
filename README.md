@@ -5,7 +5,7 @@
 
 - 🔭 I’m working on my final year project.
 
-- 🌱 I’m on track for learning more about Java, Kotlin, Android Development, Web Development and Data-Structures_n_Algorithms. 
+- 🌱 I’m on track for learning more about Java, Android Development, Web Development and Data-Structures_n_Algorithms. 
 
 - 📫 you can shoot me an email at richadixit028@gmail.com, I'll try to respond as soon as I can.
 
@@ -18,7 +18,7 @@
                                                                                    
 - 💻   Data Structures & Algorithms | Java
 
-- 🌐   HTML | CSS | JavaScript | PHP | MySQL
+- 🌐   HTML | CSS | JavaScript | MySQL
 
 - 🐍   Machine Learning | Python | OpenCV
 
