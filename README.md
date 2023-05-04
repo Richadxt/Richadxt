@@ -3,6 +3,8 @@
 <h4 align="center">I'm a currently enrolled as a Student pursuing my Bachelor's degree in Computer Science.</h4>
 <img align="right" alt="coding" width="160" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
+Profile Hits: [![HitCount](https://hits.dwyl.com/Richadxt/Richadxt.svg?style=flat-square)](http://hits.dwyl.com/Richadxt/Richadxt)
+
 - 🔭 I’m working on my final year project.
 
 - 🌱 I’m on track for learning more about Java, Android Development, Full Stack Development and Data-Structures_n_Algorithms. 
