@@ -5,9 +5,15 @@
 
 Profile Hits: [![HitCount](https://hits.dwyl.com/Richadxt/Richadxt.svg?style=flat-square)](http://hits.dwyl.com/Richadxt/Richadxt)
 
-- 🌱 I’m on track for learning more about Java, Android Development, Full Stack Development and Data-Structures_n_Algorithms. 
+🔭 I'm a self driven passionate coder who loves to solve problems and write efficient codes.
 
-- 📫 you can shoot me an email at richadixit028@gmail.com, I'll try to respond as soon as I can.
+📎 In my free time I love to learn about latest technologies and work on my logic building skills.
+
+📚 Self Motivation + Commitment + Technology + Ideas + Team Player + Optimism - Motto of my life!
+
+🌱 I’m on track for learning more about Java, Android Development, Full Stack Development and Data-Structures_n_Algorithms. 
+
+📫 you can shoot me an email at richadixit028@gmail.com, I'll try to respond as soon as I can.
 
 
 
