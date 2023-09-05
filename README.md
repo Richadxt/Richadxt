@@ -22,9 +22,9 @@ Profile Hits: [![HitCount](https://hits.dwyl.com/Richadxt/Richadxt.svg?style=fla
     
 🛠 TECH STACK
                                                                                    
-- 💻   Data Structures & Algorithms | Java
+- 💻   Data Structures & Algorithms | Java | Spring Boot
 
-- 🌐   HTML | CSS | JavaScript | MySQL
+- 🌐   HTML | CSS | JavaScript | MySQL | Angular
 
 - 🐍   Machine Learning | Python | OpenCV
 
