@@ -1,6 +1,6 @@
 ### 
 <h1 align="center">Hey👋,I'm Richa!</h1>
-<h4 align="center">Passionate Computer Science Aspirant | Full-stack Developer</h4>
+<h4 align="center">Full-stack Developer</h4>
 <img align="right" alt="coding" width="160" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
 Profile Hits: [![HitCount](https://hits.dwyl.com/Richadxt/Richadxt.svg?style=flat-square)](http://hits.dwyl.com/Richadxt/Richadxt)
