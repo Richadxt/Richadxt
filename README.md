@@ -28,7 +28,7 @@ Profile Hits: [![HitCount](https://hits.dwyl.com/Richadxt/Richadxt.svg?style=fla
 
 - 🐍   Machine Learning | Python | OpenCV
 
-- 🔧   Visual Studio code | Intellij IDEA | Android Studio
+- 🔧   Visual Studio code | Intellij IDEA | Android Studio | Spring Tool Suite
 
 
                                                                                     
