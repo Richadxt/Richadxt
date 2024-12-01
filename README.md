@@ -15,6 +15,8 @@ Profile Hits: [![HitCount](https://hits.dwyl.com/Richadxt/Richadxt.svg?style=fla
 
 📫 you can shoot me an email at richadixit028@gmail.com, I'll try to respond as soon as I can.
 
+In permanant beta: Learning, Improving, Evolving...
+
 
 
 
